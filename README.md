@@ -17,6 +17,6 @@ Ini adalah hasil dari Tugas Praktikum Basis Data yaitu CRUD [CREATE,READ,UPDATE,
 <img title="Gambar Table Mahasiswa" src="https://i.imgur.com/0QMkDp8.png"/>
 <img title="Gambar Table Matakuliah" src="https://i.imgur.com/iYzMosB.png"/>
 <br>
-Kalau tidak mau repot, silahkan import database yang berada di folder <i><b>Database</b></i>
+<p>Kalau tidak mau repot, silahkan import database yang berada di folder <i><b>Database</b></i></p>
 <br>
 <h1>Selamat Mencoba</h1>
