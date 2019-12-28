@@ -10,7 +10,7 @@ Ini adalah hasil dari Tugas Praktikum Basis Data yaitu CRUD [CREATE,READ,UPDATE,
 <li>XAMPP</li>
 ========================================<br>
 <p>Sebelum anda mendownload project ini, pastikan anda sudah :</p>
-<li>Membuat Databse dengan nama dell / Kalau ingin mengubah database, bisa ke folder <i><b>function -> fungsi.php</b></i> dan edit bagian <i><b>$koneksi</b></i></li>
+<li>Membuat Databse dengan nama dell / Kalau ingin mengubahnya ke database yang anda buat, bisa ke folder <i><b>function -> fungsi.php</b></i> dan edit bagian <i><b>$koneksi</b></i></li>
 <li>Jangan lupa untuk membuat dua table dengan nama mahasiswa & matakuliah</li>
 <img src="https://i.imgur.com/Ixo4puJ.png"/>
 <p>Dengan struktur masing-masing table seperti berikut</p><br>
