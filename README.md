@@ -3,7 +3,7 @@ Ini adalah hasil dari Tugas Praktikum Basis Data yaitu CRUD [CREATE,READ,UPDATE,
 ========================================
 <p>Dalam file ini saya menggunakan :</p>
 <li>Bootstrap 4</li>
-<li>PHP Native</li>
+<li>PHP</li>
 <li>MariaDB</li>
 ========================================<br>
 <p>Software yang saya gunakan :</p>
